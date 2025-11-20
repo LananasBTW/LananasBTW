@@ -54,7 +54,7 @@ I am currently a **3rd-year student at ESGI Paris**, majoring in **IABD** (Artif
   </a>
   <img width="20" height="1" /> 
   <a href="https://github.com/LananasBTW">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LananasBTW&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" height="180" alt="Most used languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LananasBTW&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Most used languages" />
   </a>
 </p>
   </a>
