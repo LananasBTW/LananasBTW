@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=LananasBTW&fontSize=60&animation=fadeIn&fontAlignY=38&desc=ESGI%20Student%20%7C%20AI%20%26%20Big%20Data&descAlignY=55&descAlign=50" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=LananasBTW&fontSize=60&animation=fadeIn&fontAlignY=38" alt="header" width="100%" />
 </div>
+
 
 ## 🎓 About Me
 
@@ -57,9 +58,5 @@ Passionate about low-level programming and data science.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LananasBTW&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Most used languages graph" />
   </a>
 </p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ton-profil-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
