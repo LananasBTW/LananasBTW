@@ -50,7 +50,7 @@ I am currently a **3rd-year student at ESGI Paris**, majoring in **IABD** (Artif
 
 <p align="center">
   <a href="https://github.com/LananasBTW">
-    <img src="https://github-readme-stats.vercel.app/api?username=LananasBTW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_allc_comits=true" height="180" alt="GitHub stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LananasBTW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub stats graph" />
   </a>
   <img width="20" height="1" /> 
   <a href="https://github.com/LananasBTW">
